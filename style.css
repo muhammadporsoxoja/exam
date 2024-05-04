@@ -1,0 +1,80 @@
+.qizil {
+    color: red;
+}
+
+.title {
+    text-align: center;
+    background-color: aqua;
+    border-radius: 30px;
+    border: 3px solid red;
+}
+.yashil{
+    color: darkgreen;
+}
+.body{
+    text-align: center;
+    background-color: yellow;
+    color: green;
+
+}
+
+img {
+    width: 500px;
+}
+.yoziq{
+    text-align: center;
+    background-color: yellow;
+    color: green;
+
+}
+.matn{
+    text-align: center;
+    background-color: yellow;
+    color: green;
+
+    
+}
+.fikr{
+    color: green;
+}
+button{
+    width: 30%;
+}
+.oh{
+    
+    color: green;
+}
+.lo{
+    background-color: yellow;
+    color: green;
+    text-align: center;
+}
+
+table, th, td {
+    border: 1px solid  black;
+    border-collapse: collapse;
+    padding: 10px;
+}
+
+table {
+    width: 100%;
+}
+
+.kok {
+    background-color: blue;
+    color: white;
+}
+.yashil{background-color: green;
+    color: aliceblue;
+
+}
+.qizil{
+    background-color: red;
+    color: aliceblue;
+}
+.qora{
+    background-color: rgb(77, 55, 55);
+    color:white ;
+}
+
+
